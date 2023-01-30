@@ -1,0 +1,93 @@
+/* Div */
+#HomePage {
+    background-color: black;
+    height: 1000px;
+}
+
+#ManagePassword {
+    background-color: black;
+    height: 1000px;
+    display: none;
+}
+
+/* Button */
+
+#BtnLoginPsswd {
+   margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 3%;
+    width: 15%; 
+    font-family: Roboto; 
+}
+
+#BtnLoginII {
+    margin-top: 5%;
+    font-family: Roboto;
+    margin-left: 5%;
+    width: 15%;
+}
+
+.btn-outline-light {
+    margin-top: 2%;
+    font-family: Roboto
+}
+
+#BtnNew {
+    margin-left: 32%;
+}
+
+#BtnDelete , #BtnModify , #BtnBack {
+    margin-left: 5%;
+}
+
+#btnSubmit {
+    margin-top: 2%;
+}
+
+/* Others */
+
+#Login {
+    color: #fc03be;
+    font-family: Alegreya;
+    text-align: center;
+    padding-left: 15%;
+    padding-top: 10%;
+    padding-right: 15%;
+}
+
+#ListPassword {
+    border: white;
+    border-radius: 5%;
+    border-width: 5px;
+    width: 800px;
+}
+
+#TitleWallet {
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+    font-family: Alegreya;
+}
+
+#PassList {
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    font-family: Alegreya;
+}
+
+#FormPassword {
+    color: white;
+    font-family: Alegreya;
+    width: 50%;
+    padding-top: 3%;
+    margin-left: 25%;
+    display: none;
+}
+
+.form-group {
+    padding-top: 2%;
+}
+
+
+
